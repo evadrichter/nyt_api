@@ -1,1 +1,1 @@
-# pip install pynytimes
+from pynytimes import NYTAPI
